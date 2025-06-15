@@ -1,12 +1,14 @@
+<!-- ![cute cat programming gif](https://private-user-images.githubusercontent.com/74038190/371756395-cf3b95d6-7889-47cf-9456-ce0c96c664d5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwMTY1MjQsIm5iZiI6MTc1MDAxNjIyNCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTUtY2YzYjk1ZDYtNzg4OS00N2NmLTk0NTYtY2UwYzk2YzY2NGQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE1VDE5MzcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0NjU1ZTg0M2MyY2EwYjAwOWFjNDA3YmY4OWMwNGJmNzc1ZWUzOTM2OTQwZDIwNjQwZmVjYzZkOTVkMzdjMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VUXqRULESJADV19X6nuf-FxAnkx32rVKmN-AgaUg1dQ) -->
+![sunset programming gif](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwMTY1MjQsIm5iZiI6MTc1MDAxNjIyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE1VDE5MzcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4OWY3NTU3ODJhMGQ0Mjk3MmJjZDgxNzEwMGIyZGY2YjZlN2FhN2MzYmVjNDAwYThiNGZlZmE3NjZhYzc1NjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.B7ZPdJTcLY-VK365yRsc-pp6U78i1SvoHj2QLWreRGk)
+
 ## Hi there 👋
 Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mellon University. Here's some more about me:
 
 - 🔭 I’m currently working as a SWE intern at **Firebolt Inc** and developing my personal **Micro Prop Shop** project--a high-frequency multi-container trading service that ingests/replays ticker data, uses an LSTM model I trained for inference, and serves trading signals in <20 ms! 
 - 📚 I'm currently reading Probabilistic Machine Learning by Kevin Murphy and Designing Data-Intensive Applications by Martin Kleppmann. Hit me up if you have any book or podcast recommendations!
 - 📫 Reach me at npechuk@gmail.com
-
+<br><br>
 <!-- check out https://github.com/devicons/devicon/tree/master/icons for the amazing icons btw! -->
-<!-- Skill badges with verified links -->
 <p style="display:inline-block;" align="center">
   <!-- Languages -->
   <kbd>
@@ -67,7 +69,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
   </kbd>
   -->
 </p>
-
+<br>
 
 ## 🚀 Selected Projects
 
