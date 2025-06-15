@@ -5,8 +5,6 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 - 📚 I'm currently reading Probabilistic Machine Learning by Kevin Murphy and Designing Data-Intensive Applications by Martin Kleppmann. Hit me up if you have any book or podcast recommendations!
 - 📫 Reach me at npechuk@gmail.com
 
-### Languages & Tools 🛠️
-
 <!-- check out https://github.com/devicons/devicon/tree/master/icons for the amazing icons btw! -->
 <!-- Skill badges with verified links -->
 <p style="display:inline-block;" align="center">
@@ -70,11 +68,49 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
   -->
 </p>
 
-### Projects 🔭
+
+## 🚀 Selected Projects
+
+| Project                                            | Tech Stack                                                                                                                                                                                                                                                                                                                                                              | What It Does                                                                                         |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Mini Prop Shop**<br>            | <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/> Go · <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="K8s"/> K8s | Replays 1.2 B BTC ticks, serves sub‑20 ms trading signals, and nightly fine‑tunes an LSTM model. |
+| **Arduino Stock Ticker**<br>      | <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/> C++ · Finnhub API                                                                                                                                                                                                                                | Displays live price, symbol, %‑change on a physical ticker—refreshed every minute.                   |
+| **Canvas Submission Scraper**<br> | <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"/> Python · Canvas API · Teams API                                                                                                                                                                                                                        | Auto‑assigns student submissions to TAs based on preferences, pinging assignments via Teams.         |
+| **Sock Match iOS**<br>            | <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/> Swift · Create ML                                                                                                                                                                                                                                      | Lets blind users match socks by camera; on‑device ML for real‑time accessibility.                    |
 
 ![snake gif](github-contribution-grid-snake.svg )
 
+## 💼 Experience
 
+<details>
+  <summary><strong>Software Engineer Intern – Firebolt Inc. (Summer 2025)</strong></summary>
+
+- Developing a <strong>Go</strong> + <strong>gRPC</strong> tool that benchmarks data‑warehouse performance across cluster shapes, query acceleration settings, and caching strategies.<br>
+
+</details>
+
+<details>
+  <summary><strong>Software Engineer Intern – SDF Labs → dbt Labs (Summer 2024)</strong></summary>
+
+- Led end‑to‑end development of the <em>Reports</em> cloud‑console feature (built with <strong>Svelte</strong>, <strong>TypeScript</strong>, <strong>TailwindCSS</strong>), used to track metadata across data workloads.<br>
+- Scraped & normalised SQL‑dialect metadata in <strong>Python</strong> to power cross‑dialect compilation.
+
+</details>
+
+<details>
+  <summary><strong>Co‑founder & CEO – Extentek LLC (2018 ‑ 2025)</strong></summary>
+
+- Invented and patented (see US Patent US 10830626 B2) an over‑pour prevention device for blind users.<br>
+- Raised funding & spoke at global accessibility conferences (<em>AHG</em>, <em>M‑Enabling</em>, <em>GeekWire</em>).
+
+</details>
+
+<details>
+  <summary><strong>Intern & Team Lead – SEAL Lab @ UW (Summer 2023)</strong></summary>
+
+- Managed a team of interns to write an NIH STTR R41 grant, bringing the lab’s software to millions.
+
+</details>
 
 <!--
 **nirpechuk/nirpechuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
