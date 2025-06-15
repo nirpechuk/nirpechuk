@@ -7,7 +7,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 
 - 🔭 I’m currently working as a SWE intern at **Firebolt Inc** and developing my personal **Micro Prop Shop** project--a high-frequency multi-container trading service that ingests/replays ticker data, uses an LSTM model I trained for inference, and serves trading signals in <20 ms! 
 - 📚 I'm currently reading Probabilistic Machine Learning by Kevin Murphy and Designing Data-Intensive Applications by Martin Kleppmann. Hit me up if you have any book or podcast recommendations!
-- 📫 Reach me at npechuk@gmail.com
+- 📫 Reach me at <a href="https://www.linkedin.com/in/nirpechuk/">my linkedin</a>!
 <br><br>
 <!-- check out https://github.com/devicons/devicon/tree/master/icons for the amazing icons btw! -->
 <p style="display:inline-block;" align="center">
