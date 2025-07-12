@@ -90,6 +90,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 <details>
   <summary><strong>Software Engineer Intern – Firebolt Inc. (Summer 2025)</strong></summary>
 
+- Trained an RNN model with AWS SageMaker to predict AWS EC2 capacity and customer demand for warmpool sizing, then deployed the entire data cleaning, featurization, and inference pipeline to a Go gRPC microservice.
 - Developing a <strong>Go</strong> + <strong>gRPC</strong> tool that benchmarks data‑warehouse performance across cluster shapes, query acceleration settings, and caching strategies.<br>
 - Giving engineers a use-case-accurate perf-gate for new features and safeguarding Firebolt’s claim as the world’s fastest data warehouse.
 
