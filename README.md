@@ -5,10 +5,10 @@
 ## Hi there 👋
 Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mellon University. Here's some more about me:
 
-- 🔭 I’m currently working as a SWE intern at **Firebolt Inc** and developing my personal **Micro Prop Shop** project--a high-frequency multi-container trading service that ingests/replays ticker data, uses an LSTM model I trained for inference, and serves trading signals in <20 ms! 
-- 🏆 Recently I **won at the UC Berkeley AI Hackathon**, the largest AI Hackathon in the world, with my project **Truely**. It's a browser extension that deploys agents to verify facts on your page and annotates misinfo/deepfakes with citations! See the repo+devpost below if you're interested :)
+- 🔭 Last summer I worked as a SWE intern at **Firebolt Inc**, and now I'm developing my personal **Micro Prop Shop** project--a high-frequency multi-container trading service that ingests/replays ticker data, uses an LSTM model I trained for inference, and serves trading signals in <20 ms! 
+- 🏆 Recently I **won at the UC Berkeley AI Hackathon**, the largest AI-themed Hackathon in the world, with my project **Truely**. It's a browser extension that deploys agents to verify facts on your page and annotates misinfo/deepfakes with citations! See the repo+devpost below if you're interested :)
 - 📚 I'm currently reading **Probabilistic Machine Learning by Kevin Murphy** and **Designing Data-Intensive Applications by Martin Kleppmann**. Hit me up if you have any book or podcast recommendations!
-- 📫 Reach me at <a href="https://www.linkedin.com/in/nirpechuk/">**my linkedin**</a>!
+- 📫 Reach me via <a href="https://www.linkedin.com/in/nirpechuk/">**my linkedin**</a>!
 <br><br>
 <!-- check out https://github.com/devicons/devicon/tree/master/icons for the amazing icons btw! -->
 <p style="display:inline-block;" align="center">
@@ -29,6 +29,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
   <kbd>
     <kbd>Front‑end & Mobile</kbd><br><br>
     <a href="https://svelte.dev" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" /></a>
+    <a href="https://flutter.dev" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" /></a>
     <a href="https://tailwindcss.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" /></a>
     <a href="https://react.dev" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /></a>
     <a href="https://getbootstrap.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" /></a>
@@ -41,6 +42,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
     <a href="https://kubernetes.io" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /></a>
     <a href="https://aws.amazon.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" /></a>
     <a href="https://grpc.io" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" alt="gRPC" /></a>
+    <a href="https://supabase.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" /></a>
   </kbd>
 
   <!-- Data & ML -->
@@ -73,14 +75,15 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 </p>
 <br>
 
-## 🚀 Selected Projects
+## Selected Projects 🚀
 | Project                       | Tech Stack                                                                                                                                                                                                                                                                                                                                                           | What It Does                                                                                     |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Truely**                    | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/> TypeScript · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" /> Svelte                                          | Annotates misinformation & deepfakes in-page via multi-agent LLMs and live web search.           |
-| **Mini Prop Shop**            | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/> Go · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="K8s"/> K8s | Replays 1.2 B BTC ticks, serves sub-20 ms trading signals, and nightly fine-tunes an LSTM model. |
-| **Arduino Stock Ticker**      | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/> C++ · Finnhub API                                                                                                                                                                                                                              | Displays live price, symbol, %-change on a physical ticker—refreshed every minute.               |
-| **Canvas Submission Scraper** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"/> Python · Canvas API · Teams API                                                                                                                                                                                                                      | Auto-assigns student submissions to TAs based on preferences, pinging assignments via Teams.     |
-| **Sock Match iOS**            | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/> Swift · Create ML                                                                                                                                                                                                                                    | Lets blind users match socks by camera; on-device ML for real-time accessibility.                |
+| **🪴 Verde**                     | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/> Flutter · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase"/> Supabase | Real-time map for community-driven environmental action. Scrapes and clusters issues, generates events, and gamifies eco-impact. Built in under 24 hours for HackMIT 2025. |
+| **🔍 Truely**                    | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/> TypeScript · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" /> Svelte                                          | Annotates misinformation & deepfakes in-page via multi-agent LLMs and live web search.           |
+| **⚙️ Mini Prop Shop**            | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/> Go · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="K8s"/> K8s | Replays 1.2 B BTC ticks, serves sub-20 ms trading signals, and nightly fine-tunes an LSTM model. |
+| **📈 Arduino Stock Ticker**      | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/> C++ · Finnhub API                                                                                                                                                                                                                              | Displays live price, symbol, %-change on a physical ticker—refreshed every minute.               |
+| **🧩 Canvas Submission Orchestrator** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"/> Python · Canvas API · Teams API                                                                                                                                                                                                                      | Auto-assigns student submissions to TAs based on preferences, pinging assignments via Teams.     |
+| **🧦 Sock Match iOS**            | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/> Swift · Create ML                                                                                                                                                                                                                                    | iOS app that lets blind users match socks with camera; on-device ML for real-time accessibility.                |
 
 
 ![snake gif](github-contribution-grid-snake.svg )
