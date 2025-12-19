@@ -7,7 +7,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 
 - 🔭 Last summer I worked as a SWE intern at **Firebolt Inc**, and now I'm developing my personal **Micro Prop Shop** project--a high-frequency multi-container trading service that ingests/replays ticker data, uses an LSTM model I trained for inference, and serves trading signals in <20 ms! 
 - 🏆 Recently I **won at the UC Berkeley AI Hackathon**, the largest AI-themed Hackathon in the world, with my project **Truely**. It's a browser extension that deploys agents to verify facts on your page and annotates misinfo/deepfakes with citations! See the repo+devpost below if you're interested :)
-- 📚 I'm currently reading **Probabilistic Machine Learning by Kevin Murphy** and **Designing Data-Intensive Applications by Martin Kleppmann**. Hit me up if you have any book or podcast recommendations!
+- 📚 I've recently been focusing on reading cool papers on language modeling, robotics, and anything AI/ML. Hit me up if you have any paper recommendations!
 - 📫 Reach me via <a href="https://www.linkedin.com/in/nirpechuk/">**my linkedin**</a>!
 <br><br>
 <!-- check out https://github.com/devicons/devicon/tree/master/icons for the amazing icons btw! -->
