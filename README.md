@@ -82,12 +82,12 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 ## 🧪 Research
 _I'm still quite new to research, but I'm highly interested in getting more involved._
 
-<details>
+<!-- <details>
   <summary><strong>Foundations of Cooperative AI Lab (FOCAL) @ CMU (2025 – Present)</strong></summary>
 
 - Investigating how memory size, memory horizon, reasoning length, and incentive structure affect strategic behavior of LLM agents in repeated economic games.
 
-</details>
+</details> -->
 
 <details>
   <summary><strong>Assistive Sensing Systems (2020 – 2025)</strong></summary>
