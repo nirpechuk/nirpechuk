@@ -84,12 +84,20 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 ## 🧪 Research
 _I'm still quite new to research, but I'm highly interested in getting more involved._
 
-<!-- <details>
+<details>
+  <summary><strong>RCHI Lab @ CMU (2025 – Present)</strong></summary>
+
+- Under Prof. Zackory Erickson, working on robot learning for physical human-robot interaction.
+- See the [GenSimPHRI website](https://rchi-lab.github.io/gen_phri/) for our recent work on text2sim2real, a framework for generating expert real-life policies entirely from short task descriptions -- no demonstrations or finetuning!
+
+</details>
+
+<details>
   <summary><strong>Foundations of Cooperative AI Lab (FOCAL) @ CMU (2025 – Present)</strong></summary>
 
-- Investigating how memory size, memory horizon, reasoning length, and incentive structure affect strategic behavior of LLM agents in repeated economic games.
+- Under Prof. Vincent Conitzer, investigating how memory size, memory horizon, reasoning length, and incentive structure affect strategic behavior of LLM agents in repeated economic games.
 
-</details> -->
+</details>
 
 <details>
   <summary><strong>Assistive Sensing Systems (2020 – 2025)</strong></summary>
