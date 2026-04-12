@@ -85,7 +85,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 _I'm still quite new to research, but I'm highly interested in getting more involved._
 
 <details>
-  <summary><strong>RCHI Lab @ CMU (2025 – Present)</strong></summary>
+  <summary><strong>Robot Caregiving and Human Interaction (RCHI) Lab @ CMU (2025 – Present)</strong></summary>
 
 - Under Prof. Zackory Erickson, working on robot learning for physical human-robot interaction.
 - See the [GenSimPHRI website](https://rchi-lab.github.io/gen_phri/) for our recent work on text2sim2real, a framework for generating expert real-life policies entirely from short task descriptions -- no demonstrations or finetuning!
