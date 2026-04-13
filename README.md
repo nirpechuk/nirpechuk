@@ -6,7 +6,7 @@
 Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mellon University. Here's some more about me:
 
 - 💻 This semester I'm **TAing 15-122**: Principles of Imperative Computation at CMU. Very excited help students with correctness/safety proofs and data structures and algorithms in C!
-- 🔭 Last summer I worked as a SWE intern at **Firebolt Inc**, where I got to work with machine learning, distributed systems, and databases in a cutting-edge industry environment (see below for more detail).
+- 🔭 This summer I'm excited to be interning at **Palantir** as a SWE Intern in the Production Infrastructure org (Apollo team). Systems programming! Last summer I worked as a SWE intern at **Firebolt Inc**, where I got to work with machine learning, distributed systems, and databases in a cutting-edge industry environment (see below for more detail).
 - 🏆 Hackathons:
   - Recently **won at CMU TartanHacks**, CMU's largest hackathon (>1000 hackers and 279 submitted projects), with BallotGuide. It's a website designed to address low voter turnout with custom visualizations of how your local election ballot will actually affect your life. See [this cool gif demo](https://www.youtube.com/watch?v=UPvNxiCK0Lg) of the website's features.
   - In 2025 I **won at the UC Berkeley AI Hackathon**, the largest AI-themed Hackathon in the world, with my project Truely. It's a browser extension that deploys agents to verify facts on your page and annotates misinfo/deepfakes with citations! See the repo+devpost below if you're interested :)
