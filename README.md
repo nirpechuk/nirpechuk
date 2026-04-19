@@ -82,7 +82,6 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 ![snake gif](github-contribution-grid-snake.svg )
 
 ## 🧪 Research
-_I'm still quite new to research, but I'm highly interested in getting more involved._
 
 <details>
   <summary><strong>Robot Caregiving and Human Interaction (RCHI) Lab @ CMU (Jan 2026 – Present)</strong></summary>
