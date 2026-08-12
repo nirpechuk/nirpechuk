@@ -5,11 +5,11 @@
 ## Hi there 👋
 Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mellon University. Here's some more about me:
 
-- 💻 This semester I'm **TAing 15-122**: Principles of Imperative Computation at CMU. Very excited help students with correctness/safety proofs and data structures and algorithms in C!
-- 🔭 This summer I'm excited to be interning at **Palantir** as a SWE Intern in the Production Infrastructure org (Apollo team). Systems programming! Last summer I worked as a SWE intern at **Firebolt Inc**, where I got to work with machine learning, distributed systems, and databases in a cutting-edge industry environment (see below for more detail).
+- 💻 This semester I'm **TAing 15-213**: Introduction to Computer Systems at CMU. Very excited help students build a memory allocator, cache simulator, multithreaded web proxy, and more from the ground up in C! Last semester I TAd 15-122, CMU's imperative computing class. TAing is fun and fulfilling!
+- 🔭 In 2026, I interned at **Palantir** working on infrastructure, with my proudest accomplishment being implementing optimizations that led to >10x cuts in memory and cost of a key service. The summer before, I worked as a SWE intern at **Firebolt Inc**, where I got to work with machine learning, distributed systems, and databases in a startup environment.
 - 🏆 Hackathons:
-  - Recently **won at CMU TartanHacks**, CMU's largest hackathon (>1000 hackers and 279 submitted projects), with BallotGuide. It's a website designed to address low voter turnout with custom visualizations of how your local election ballot will actually affect your life. See [this cool gif demo](https://www.youtube.com/watch?v=UPvNxiCK0Lg) of the website's features.
-  - In 2025 I **won at the UC Berkeley AI Hackathon**, the largest AI-themed Hackathon in the world, with my project Truely. It's a browser extension that deploys agents to verify facts on your page and annotates misinfo/deepfakes with citations! See the repo+devpost below if you're interested :)
+  - Recently built a autonomous bioreactor at the **UC Berkeley AI Hackathon** designed to help farm [bacteriophages](https://en.wikipedia.org/wiki/Bacteriophage#:~:text=Meanwhile%2C%20bacteriophage%20researchers%20have%20been%20developing%20engineered%20viruses%20to%20overcome%20antibiotic%20resistance) -- I enjoyed getting to combine hardware, software, and my robot learning knowledge into this project! See more [here](https://www.youtube.com/watch?v=z2aTEHjq1O8).
+  - Last year I **won at CMU TartanHacks**, CMU's largest hackathon (>1000 hackers and 279 submitted projects), with BallotGuide. It's a website designed to address low voter turnout with custom visualizations of how your local election ballot will actually affect your life. See [this cool gif demo](https://www.youtube.com/watch?v=UPvNxiCK0Lg) of the website's features.
 - 📚 Recent papers I've enjoyed reading have focused on [language modeling](https://openreview.net/pdf?id=JFPaD7lpBD), [robot learning](https://arxiv.org/pdf/2509.07953), [game theory/behavioral economics](https://arxiv.org/pdf/2502.17720), [genetic algorithms](https://arxiv.org/pdf/2309.16797), and other fields in AI (hyperlinked one per category). Hit me up if you have any paper recommendations you think I'd enjoy!
 - 📫 Reach me via <a href="https://www.linkedin.com/in/nirpechuk/">**my linkedin**</a>!
 - 🥴 (Bonus: if you can't already tell, I love emojis)
@@ -91,12 +91,12 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 
 </details>
 
-<details>
+<!-- <details>
   <summary><strong>Foundations of Cooperative AI Lab (FOCAL) @ CMU (Nov 2025 – Present)</strong></summary>
 
 - Under Prof. Vincent Conitzer, investigating how memory size, memory horizon, reasoning length, and incentive structure affect strategic behavior of LLM agents in repeated economic games.
 
-</details>
+</details> -->
 
 <details>
   <summary><strong>Assistive Sensing Systems (2020 – 2025)</strong></summary>
@@ -111,22 +111,36 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 <details>
   <summary><strong>Technical Courses: Completed</strong></summary>
 
-- **15-122**: Principles of Imperative Computation — *99.05%*
-- **15-151**: Mathematical Foundations for Computer Science — *99.61%*
-- **21-241**: Matrices and Linear Transformations — *99.24%*
-</details>
-
-<details>
-  <summary><strong>Technical Courses: In Progress</strong></summary>
-
-- **15-150**: Functional Programming
 - **15-213**: Introduction to Computer Systems
+- **15-150**: Functional Programming
+- **15-122**: Principles of Imperative Computation
+
+- **15-151**: Mathematical Foundations for Computer Science (discrete math)
+- **21-241**: Matrices and Linear Transformations
 - **21-266**: Vector Calculus using Matrix Algebra
 - **21-270**: Introduction to Mathematical Finance
 
 </details>
 
+<details>
+  <summary><strong>Technical Courses: In Progress</strong></summary>
+
+- **07-280**: AI & ML I
+- **16-385**: Computer Vision
+- **15-210**: Parallel and Sequential Data Structures and Algorithms
+- **15-259**: Probability and Computing
+
+</details>
+
 ## 💼 Experience
+
+<details>
+  <summary><strong>Software Engineer Intern – Palantir (Summer 2026)</strong></summary>
+
+- Deployed optimizations that cut a key service's memory usage and cost by >10x.
+- Then, led a major refactor of a fleetwide service and mobilized two teammates alongside me.
+
+</details>
 
 <details>
   <summary><strong>Software Engineer Intern – Firebolt Inc. (Summer 2025)</strong></summary>
@@ -163,6 +177,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 ## 🚀 Selected Projects
 | Project                       | Tech Stack                                                                                                                                                                                                                                                                                                                                                           | What It Does                                                                                     |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **🧫 Phagentic**                 | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="ESP32"/> ESP32/C++ · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"/> Python · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · BLE · MPC | Built a physical bioreactor from scratch (ESP32, MOSFET-driven pumps, RGB sensor, 3D-printed rig) and trained a chemistry-informed gray-box ODE + MPC controller to autonomously drive its reaction. See more [here](https://devpost.com/software/phagentic). |
 | **🪴 Verde**                     | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/> Flutter · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase"/> Supabase | Real-time map for community-driven environmental action. Scrapes and clusters issues, generates events, and gamifies eco-impact. Built in under 24 hours for HackMIT 2025. |
 | **🔍 Truely**                    | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/> TypeScript · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" /> Svelte                                          | Annotates misinformation & deepfakes in-page via multi-agent LLMs and live web search.           |
 | **⚙️ Mini Prop Shop**            | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/> Go · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="K8s"/> K8s | Replays 1.2 B BTC ticks, serves sub-20 ms trading signals, and nightly fine-tunes an LSTM model. |
