@@ -10,7 +10,7 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 - 🏆 Hackathons:
   - Recently built a autonomous bioreactor at the **UC Berkeley AI Hackathon** designed to help farm [bacteriophages](https://en.wikipedia.org/wiki/Bacteriophage#:~:text=Meanwhile%2C%20bacteriophage%20researchers%20have%20been%20developing%20engineered%20viruses%20to%20overcome%20antibiotic%20resistance) -- I enjoyed getting to combine hardware, software, and my robot learning knowledge into this project! See more [here](https://www.youtube.com/watch?v=z2aTEHjq1O8).
   - Last year I **won at CMU TartanHacks**, CMU's largest hackathon (>1000 hackers and 279 submitted projects), with BallotGuide. It's a website designed to address low voter turnout with custom visualizations of how your local election ballot will actually affect your life. See [this cool gif demo](https://www.youtube.com/watch?v=UPvNxiCK0Lg) of the website's features.
-- 📚 Recent papers I've enjoyed reading have focused on [language modeling](https://openreview.net/pdf?id=JFPaD7lpBD), [robot learning](https://arxiv.org/pdf/2509.07953), [game theory/behavioral economics](https://arxiv.org/pdf/2502.17720), [genetic algorithms](https://arxiv.org/pdf/2309.16797), and other fields in AI (hyperlinked one per category). Hit me up if you have any paper recommendations you think I'd enjoy!
+- 📚 Recent papers I've enjoyed reading have focused on [robotics](https://arxiv.org/pdf/2509.07953), [game theory/behavioral economics](https://arxiv.org/pdf/2502.17720), [genetic algorithms](https://arxiv.org/pdf/2309.16797), [language modeling](https://openreview.net/pdf?id=JFPaD7lpBD), and other fields in AI (hyperlinked one per category). Hit me up if you have any paper recommendations you think I'd enjoy!
 - 📫 Reach me via <a href="https://www.linkedin.com/in/nirpechuk/">**my linkedin**</a>!
 - 🥴 (Bonus: if you can't already tell, I love emojis)
 <br><br>
@@ -86,8 +86,8 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 <details>
   <summary><strong>Robot Caregiving and Human Interaction (RCHI) Lab @ CMU (Jan 2026 – Present)</strong></summary>
 
-- Under Prof. Zackory Erickson, working on robot learning for physical human-robot interaction.
-- See the [GenSimPHRI website](https://rchi-lab.github.io/gen_phri/) for our recent work on text2sim2real, a framework for generating expert real-life policies entirely from short task descriptions -- no demonstrations or finetuning!
+- Advised by Prof. Zackory Erickson, working on robot learning for human-robot interaction.
+- See the [GenSimPHRI website](https://rchi-lab.github.io/gen_phri/) for my recent work on generating and real-life deploying physical human-robot interaction scenarios entirely from a single text prompt!
 
 </details>
 
@@ -114,7 +114,6 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 - **15-213**: Introduction to Computer Systems
 - **15-150**: Functional Programming
 - **15-122**: Principles of Imperative Computation
-
 - **15-151**: Mathematical Foundations for Computer Science (discrete math)
 - **21-241**: Matrices and Linear Transformations
 - **21-266**: Vector Calculus using Matrix Algebra
@@ -125,9 +124,9 @@ Hey 😃 I'm Nir, an undergraduate majoring in Computer Science at Carnegie Mell
 <details>
   <summary><strong>Technical Courses: In Progress</strong></summary>
 
+- **10-703**: Deep Reinforcement Learning (PhD)
 - **07-280**: AI & ML I
 - **16-385**: Computer Vision
-- **15-210**: Parallel and Sequential Data Structures and Algorithms
 - **15-259**: Probability and Computing
 
 </details>
